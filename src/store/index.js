@@ -5,6 +5,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
+	links:["Inicio", "Directorio", "Novedades", "Proximamente"]
   },
   getters: {
   },
